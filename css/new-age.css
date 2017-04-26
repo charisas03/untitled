@@ -152,9 +152,9 @@ header {
   width: 100%;
   min-height: auto;
   overflow-y: hidden;
-  background: url("../img/bg-pattern.png"), #a4dfe9;
-  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #a4dfe9, #f4bcb6);
-  background: url("../img/bg-pattern.png"), linear-gradient(to left, #a4dfe9, #f4bcb6);
+  background: url("../img/bg-pattern.png"), #7b4397;
+  background: url("../img/bg-pattern.png"), -webkit-linear-gradient(to left, #7b4397, #dc2430);
+  background: url("../img/bg-pattern.png"), linear-gradient(to left, #7b4397, #dc2430);
   color: white;
 }
 header .header-content {
@@ -275,7 +275,7 @@ section.features .feature-item h3 {
 section.features .feature-item i {
   font-size: 80px;
   background: -webkit-linear-gradient(to left, #a4dfe9, #f4bcb6);
-  background: linear-gradient(to left, #a4dfe9, #f4bcb6);
+  background: linear-gradient(to left, #7b4397, #dc2430);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
