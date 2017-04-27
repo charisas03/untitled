@@ -138,10 +138,10 @@ header {
   text-transform: uppercase;
   color: white;
   margin-bottom: 1em;
-  font-family: "Merriweather Sans", sans-serif;
+  font-family: 'Muli', sans-serif;
 }
 .cd-service p {
-  font-size: 14px;
+  font-size: 24px;
   font-size: 0.875rem;
   line-height: 1.4;
   color: rgba(255, 255, 255, 0.5);
